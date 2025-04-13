@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mandeep<br>- 👀 I’m a Bachelor's in Data Science now want to grow in Data Engineering<br>- 🌱 I’m cloud and Generative AI enthusiast <br>- 📫 U can reach me at Linkedin: www.linkedin.com/in/mandeepsingh0106<br>
+ -👋 Hi, I’m Mandeep<br>- 👀 I’m a Bachelor's in Data Science now want to grow in Data Engineering<br>- 🌱 I’m cloud and Generative AI enthusiast <br>- 📫 U can reach me at Linkedin: www.linkedin.com/in/mandeepsingh0106<br>
 
 
 ## 🌐 Socials:
